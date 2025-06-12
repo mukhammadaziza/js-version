@@ -6,5 +6,5 @@ console.log('new changes version 12');
 console.log('new');
 consol.log('new changes');
 console.log('pp');
-const a =1;
+const a =5;
 console.log('ss');
